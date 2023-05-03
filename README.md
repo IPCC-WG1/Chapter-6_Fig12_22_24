@@ -1,4 +1,6 @@
 ## Description
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7006729.svg)](https://doi.org/10.5281/zenodo.7006729)
+
 Contact: Sara Marie Blichner, University of Oslo 
 
 [s.m.blichner@geo.uio.no](mailto:s.m.blichner@geo.uio.no) or [sara.blichner@aces.su.no](mailto:sara.blichner@aces.su.se)
